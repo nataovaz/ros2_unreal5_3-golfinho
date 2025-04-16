@@ -33,7 +33,7 @@ Veja abaixo um print do projeto funcionando, recebendo mensagens do ROS2 no Unre
 
 3. **Abra o Unreal pelo terminal:**
    ```bash
-   /caminho/para/UnrealEditor Campus_Itabira.uproject
+   /caminho/para/UnrealEditor <SeuProjetoConfigurado>.uproject
    ```
 
 4. **Compile o projeto (se necessário):**
