@@ -11,7 +11,7 @@ Este projeto é um exemplo mínimo de integração entre Unreal Engine 5.3, ROS2
 - Unreal Engine 5.3 (compilado para Linux)
 - ROS2 Foxy instalado e configurado
 - Plugin [rclUE](https://github.com/RobotecAI/rclUE) (copie para a pasta Plugins/ se não estiver instalado globalmente)
-- Linux (testado no Ubuntu)
+- Linux Ubuntu 20
 
 ## Estrutura do Projeto
 - `Source/` — Código C++ do projeto (inclui o MyActor)
