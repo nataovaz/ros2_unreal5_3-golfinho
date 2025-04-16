@@ -2,6 +2,7 @@
 
 
 **Autor:** Natan Ferreira Rosa de Jesus Vaz — Trabalho de Conclusão de Curso
+
 **Universidade** Universidade Federal de Itajubá
 
 Este projeto é um exemplo mínimo de integração entre Unreal Engine 5.3, ROS2 Foxy e o plugin rclUE, usando um ator C++ (MyActor) como subscriber de mensagens String do ROS2.
