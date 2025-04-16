@@ -19,7 +19,11 @@ Este projeto é um exemplo mínimo de integração entre Unreal Engine 5.3, ROS2
 - `Plugins/rclUE/` — Plugin de integração ROS2 <-> Unreal
 - `Campus_Itabira.uproject` — Arquivo do projeto Unreal
 
+## Exemplo de execução
 
+Veja abaixo um print do projeto funcionando, recebendo mensagens do ROS2 no Unreal Engine:
+
+![Hello World funcionando](Screenshot%20from%202025-04-15%2023-34-36.png)
 
 2. **Configure o ambiente ROS2:**
    ```bash
