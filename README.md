@@ -38,6 +38,7 @@ Veja abaixo um print do projeto funcionando, recebendo mensagens do ROS2 no Unre
 
 4. **Compile o projeto (se necessário):**
    - Use o menu do Unreal ou `make` se configurado.
+   - Lembrete: Qualquer alteração no código C++ do projeto é necessário recompilar por parte da Unreal, nesse caso utilize o hot reload Ctrl+Shift+Alt+P
 
 5. **Adicione o ator MyActor à cena.**
    - Ele já está configurado para ser subscriber do tópico `/teste_unreal`.
