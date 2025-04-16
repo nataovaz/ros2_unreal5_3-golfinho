@@ -1,0 +1,3 @@
+[submodule "Plugins/rclUE"]
+	path = Plugins/rclUE
+	url = https://github.com/RobotecAI/rclUE.git

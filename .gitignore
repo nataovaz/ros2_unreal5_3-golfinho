@@ -1,0 +1,43 @@
+# Ignorar pastas pesadas e arquivos de build temporários do Unreal Engine
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+/Content/
+/Config/
+.campus_itabira.code-workspace
+
+/.vs/
+/.vscode/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.ipch
+*.aps
+*.ncb
+*.cache
+*.db
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Ignorar plugins pesados (exceto rclUE)
+/Plugins/*
+!/Plugins/rclUE/
+
+# Ignorar assets temporários e backups
+*.tmp
+*.bak
+*.autosave
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Manter apenas o essencial para rodar o projeto e o exemplo Hello World
